@@ -1,0 +1,24 @@
+PODS:
+  - AsyncDisplayKit (1.9):
+    - AsyncDisplayKit/ASDealloc2MainObject (= 1.9)
+  - AsyncDisplayKit/ASDealloc2MainObject (1.9)
+  - CorePlot (2.0)
+  - FLEX (2.1.1)
+  - KVOController (1.0.3)
+  - Masonry (0.6.3)
+
+DEPENDENCIES:
+  - AsyncDisplayKit
+  - CorePlot (~> 2.0)
+  - FLEX (~> 2.0)
+  - KVOController (~> 1.0.3)
+  - Masonry (~> 0.6.3)
+
+SPEC CHECKSUMS:
+  AsyncDisplayKit: 957560ccfd103fdc8f53605e11e4bc30b16aaf67
+  CorePlot: b7f422ad363f2b0e48152471d6da45ce232eb8c6
+  FLEX: 27b768fcae23a313a1eb115076d429180ca9b472
+  KVOController: 9fd8f0343670994e4b6f9f0b31f5a45663f3e1cf
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+
+COCOAPODS: 0.39.0
