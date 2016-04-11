@@ -71,7 +71,7 @@
         
         title = [[CATextLayer alloc] init];
         [title setString:@"88%"];
-        title.contentsScale = 2;
+//        title.contentsScale = 2;
         [title setFont:(__bridge CFTypeRef _Nullable)([UIFont boldSystemFontOfSize:40])];
         [title setFontSize:40];
         [title setForegroundColor:[UIColor whiteColor].CGColor];
